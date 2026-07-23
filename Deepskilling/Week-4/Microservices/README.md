@@ -31,5 +31,4 @@ dotnet ef database update
 5. **05** shows how authentication is centralized once you have multiple services.
 6. **06** shows how it all gets monitored and shipped to production with Docker/Kubernetes.
 
-## Author
-Kakumanu Venkata Sadwik — B.Tech CSE, VFSTR
+## Author—Bolisetty V N S K Mahalakshmi B.Tech CSE, VFSTR
